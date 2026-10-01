@@ -65,10 +65,10 @@ Student-Performance-Prediction/
 Random Forest is an ensemble learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting.
 
 Advantages:
-- Handles non-linear relationships
-- Robust against overfitting
-- Works well on tabular datasets
-- Provides feature importance
+- Handles non-linear relationships.
+- Robust against overfitting.
+- Works well on tabular datasets.
+- Provides feature importance.
 
 ---
 
